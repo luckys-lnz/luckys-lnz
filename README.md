@@ -60,10 +60,10 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luckys-lnz&show_icons=true&theme=gruvbox" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckys-lnz&theme=gruvbox" height="180">
-</p>
+</div>
 
 ---
 
