@@ -67,13 +67,6 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 
 ---
 
-## ⏳ WakaTime Stats  
-
-<p align="center">
-<a href="https://wakatime.com/@28b5dd51-fde9-4a16-96b8-780a935ab823"><img src="https://wakatime.com/badge/user/28b5dd51-fde9-4a16-96b8-780a935ab823.svg" alt="Total time coded since Jul 26 2019" /></a></p>
-
----
-
 ## 📫 Let's Connect  
 
 <p align="center">
