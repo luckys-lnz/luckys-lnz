@@ -70,9 +70,7 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 ## ⏳ WakaTime Stats  
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luckys-lnz&theme=gruvbox" height="180"> -->
-  [![WakaTime](https://wakatime.com/badge/user/l25j30.svg)](https://wakatime.com/@l25j30)
-
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luckys-lnz&theme=gruvbox" height="180">
 </p>
 
 ---
