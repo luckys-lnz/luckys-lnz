@@ -67,6 +67,14 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 
 ---
 
+## ⏳ WakaTime Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luckys-lnz&theme=gruvbox" height="180">
+</p>
+
+---
+
 ## 📫 Let's Connect  
 
 <p align="center">
