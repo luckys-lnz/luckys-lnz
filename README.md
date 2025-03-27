@@ -51,8 +51,8 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 
 | 🔥 Project | 🚀 Description | 💻 Tech Stack |
 |------------|--------------|--------------|
+| **[web-scraper](#)** | A minimal web-scraping tool for **Scraping meta, URLs, page titles** efficiently. | C, libxml, curl |
 | **[Exchange-App](#)** | A powerful tool for **converting NGN to GHS** efficiently. | React, Node.js, Express, PostgreSQL |
-| **[AirBnB Clone](#)** | An advanced **apartment booking and rental** system. | Python, Flask, MySQL, Jinja, SQLAlchemy |
 
 🔍 **More projects coming soon!**
 
