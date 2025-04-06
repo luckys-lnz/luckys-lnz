@@ -42,7 +42,7 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 - 🔥 **Algorithm design & data structures**  
 - ⚡ **Parallel computing & multithreading**  
 - 🌐 **Web scraping & automation**  
-- 🏗️ **Database design (PostgreSQL, MySQL)**  
+- 🏗️ **Database design (PostgreSQL, MySQL, MongoDB)**  
 - 🏛️ **System architecture & design**  
 
 ---
