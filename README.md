@@ -55,6 +55,7 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 
 
 | **[Exchange-App](https://github.com/luckys-lnz/exchange-app)** | A powerful tool for **converting NGN to GHS** efficiently. | React, Node.js, Express, PostgreSQL |
+
 | **[AirBnB_clone_v4](https://github.com/luckys-lnz/AirBnB_clone_v4)** | A web based MVP app for **Renting apartments, and buildings** with ease. | Python, flask, jinja, SQL, SQLalchemy |
 
 🔍 **More projects coming soon!**
