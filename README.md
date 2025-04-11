@@ -47,16 +47,14 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
 | 🔥 Project | 🚀 Description | 💻 Tech Stack |
-|------------|--------------|--------------|
-| **[web-scraper](https://github.com/luckys-lnz/web-scraper)** |  A fast, efficient, and extensible web crawler built in C. It supports multithreaded crawling, respects robots.txt, and uses Redis for smart URL deduplication and queueing. HTML is parsed with libxml2, and data can be stored in PostgreSQL or on disk. Designed for high performance and future integration with AI-based content analysis. | C, pthreads, libxml2, cURL, Redis, PostgreSQL |
+|------------|----------------|----------------|
+| **[web-scraper](https://github.com/luckys-lnz/web-scraper)** | A fast, efficient, and extensible web crawler built in C. It features multithreaded crawling, `robots.txt` compliance, smart URL deduplication with Redis, and HTML parsing with `libxml2`. Supports storage in PostgreSQL or disk, and is designed for future AI-powered content analysis. | C, pthreads, libxml2, cURL, Redis, PostgreSQL |
+| **[Exchange-App](https://github.com/luckys-lnz/exchange-app)** | A responsive currency conversion tool for converting **Naira (NGN)** to **Ghanaian Cedi (GHS)** using real-time rates. | React, Node.js, Express, PostgreSQL |
+| **[AirBnB Clone v4](https://github.com/luckys-lnz/AirBnB_clone_v4)** | A minimal Airbnb-style MVP for renting apartments and buildings, featuring dynamic listings and booking capabilities. | Python, Flask, Jinja2, SQLAlchemy, PostgreSQL |
 
-
-| **[Exchange-App](https://github.com/luckys-lnz/exchange-app)** | A powerful tool for **converting NGN to GHS** efficiently. | React, Node.js, Express, PostgreSQL |
-
-| **[AirBnB_clone_v4](https://github.com/luckys-lnz/AirBnB_clone_v4)** | A web based MVP app for **Renting apartments, and buildings** with ease. | Python, flask, jinja, SQL, SQLalchemy |
 
 🔍 **More projects coming soon!**
 
