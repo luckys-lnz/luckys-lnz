@@ -51,7 +51,9 @@ I am a **Software Engineer** passionate about **high-performance computing, web 
 
 | 🔥 Project | 🚀 Description | 💻 Tech Stack |
 |------------|--------------|--------------|
-| **[web-scraper](https://github.com/luckys-lnz/web-scraper)** | A minimal web-scraping tool for **Scraping meta, URLs, page titles** efficiently. | C, libxml, curl, Redis |
+| **[web-scraper](https://github.com/luckys-lnz/web-scraper)** |  A fast, efficient, and extensible web crawler built in C. It supports multithreaded crawling, respects robots.txt, and uses Redis for smart URL deduplication and queueing. HTML is parsed with libxml2, and data can be stored in PostgreSQL or on disk. Designed for high performance and future integration with AI-based content analysis. | C, pthreads, libxml2, cURL, Redis, PostgreSQL |
+
+
 | **[Exchange-App](https://github.com/luckys-lnz/exchange-app)** | A powerful tool for **converting NGN to GHS** efficiently. | React, Node.js, Express, PostgreSQL |
 | **[AirBnB_clone_v4](https://github.com/luckys-lnz/AirBnB_clone_v4)** | A web based MVP app for **Renting apartments, and buildings** with ease. | Python, flask, jinja, SQL, SQLalchemy |
 
