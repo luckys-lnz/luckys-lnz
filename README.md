@@ -39,8 +39,7 @@ I'm a **Software Engineer** passionate about **web development** and **system ar
 - 🛠️ **Neovim Customization & Plugin Development**  
 
 🔹 **Expertise**:  
-- 🚀 **High-performance web applications**  
-- 🔥 **Algorithm design & data structures**  
+- 🚀 **High-performance web applications**    
 - ⚡ **Parallel computing & multithreading**  
 - 🌐 **Web scraping & automation**  
 - 🏗️ **Database design (PostgreSQL, MySQL, MongoDB)**  
@@ -80,6 +79,6 @@ I'm a **Software Engineer** passionate about **web development** and **system ar
 
 ---
 
-> 🌟 **"Simplicity is the soul of efficiency. In code, in design, in life, strip away the unnecessary and let clarity lead the way."** 🚀  
+> 🌟 **"Simplicity is the soul of efficiency. In code, design, and life, strip away the unnecessary and let clarity lead the way."** 🚀  
 > — A Stoic Tech Enthusiast 
 
