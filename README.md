@@ -21,7 +21,8 @@
 
 ## 🛠️ About Me  
 
-I am a **Software Engineer** passionate about **high-performance computing, web development, and system design**. I specialize in building **scalable, efficient, and maintainable** software solutions.  
+I'm a **Software Engineer** passionate about **web development** and **system architecture**. I focus on building **efficient and maintainable software**, with a strong emphasis on clean code, thoughtful design, and continuous learning through hands-on projects.
+  
 
 🔹 **Languages**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
