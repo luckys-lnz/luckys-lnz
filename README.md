@@ -36,13 +36,10 @@ I'm a **Software Engineer** passionate about **web development** and **system ar
 - 🚀 **Frontend**: React, Angular  
 - ⚡ **Backend**: Node.js, Express, Flask  
 - 🔧 **DevOps & Tools**: Docker, Tmux, Puppet  
-- 🛠️ **Neovim Customization & Plugin Development**  
 
 🔹 **Expertise**:  
-- 🚀 **High-performance web applications**    
-- ⚡ **Parallel computing & multithreading**  
-- 🌐 **Web scraping & automation**  
-- 🏗️ **Database design (PostgreSQL, MySQL, MongoDB)**  
+- 🚀 **High-performance web and mobile applications**    
+- 🏗️ **Database design (Postgresql, Mysql, Mongodb)**  
 - 🏛️ **System architecture & design**  
 
 ---
@@ -51,8 +48,8 @@ I'm a **Software Engineer** passionate about **web development** and **system ar
 
 | 🔥 Project | 🚀 Description | 💻 Tech Stack |
 |------------|----------------|----------------|
-| **[web-scraper](https://github.com/luckys-lnz/web-scraper)** | A fast, efficient, and extensible web crawler built in C. It features multithreaded crawling, `robots.txt` compliance, smart URL deduplication with Redis, and HTML parsing with `libxml2`. Supports storage in PostgreSQL or disk, and is designed for future AI-powered content analysis. | C, pthreads, libxml2, cURL, Redis, PostgreSQL |
-| **[Exchange-App](https://github.com/luckys-lnz/exchange-app)** | A responsive currency conversion tool for converting **Naira (NGN)** to **Ghanaian Cedi (GHS)** using real-time rates. | React, Node.js, Express, PostgreSQL |
+| **[web-scraper](https://github.com/luckys-lnz/web-scraper)** | A fast, efficient, and extensible web crawler built in C. It features multithreaded crawling, `robots.txt` compliance, smart URL deduplication with Redis, and HTML parsing with `libxml2`. It supports storage in Postgresql or disk and is designed for future AI-powered content analysis. | C, pthreads, libxml2, cURL, Redis, PostgreSQL |
+| **[Exchange-App](https://github.com/luckys-lnz/exchange-app)** | A responsive currency conversion tool for converting **Naira (NGN)** to **Ghanaian Cedi (GHS)** using real-time rates. | React, Node.js, Express, Postgresql |
 | **[AirBnB Clone v4](https://github.com/luckys-lnz/AirBnB_clone_v4)** | A minimal Airbnb-style MVP for renting apartments and buildings, featuring dynamic listings and booking capabilities. | Python, Flask, Jinja2, SQLAlchemy, PostgreSQL |
 
 
