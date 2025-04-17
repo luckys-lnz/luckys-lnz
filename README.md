@@ -21,7 +21,8 @@
 
 ## 🛠️ About Me  
 
-I'm a **Software Engineer** passionate about **web development** and **system architecture**. I focus on building **efficient and maintainable software**, with a strong emphasis on clean code, thoughtful design, and continuous learning through hands-on projects.
+Motivated and detail-oriented aspiring **Software Engineer** with foundational experience in full-stack development and a strong focus on **frontend technologies**. Skilled in building responsive, user-friendly interfaces using modern frameworks like React, Next.js and Angular. Eager to contribute to real-world projects, grow as an engineer, and collaborate within Agile teams to deliver high-quality user experiences.
+
   
 
 🔹 **Languages**:  
@@ -38,7 +39,7 @@ I'm a **Software Engineer** passionate about **web development** and **system ar
 - 🔧 **DevOps & Tools**: Docker, Tmux, Puppet  
 
 🔹 **Expertise**:  
-- 🚀 **High-performance web and mobile applications**    
+- 🚀 **web and mobile applications**    
 - 🏗️ **Database design (Postgresql, Mysql, Mongodb)**  
 - 🏛️ **System architecture & design**  
 
