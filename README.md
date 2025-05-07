@@ -56,17 +56,6 @@ Motivated and detail-oriented aspiring **Software Engineer** with a passion for 
 
 🔍 **More projects coming soon!**
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckys-lnz&show_icons=true&theme=gruvbox" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckys-lnz&theme=gruvbox" height="180">
-</div>
-
----
-
 ## 📫 Let's Connect  
 
 <p align="center">
