@@ -21,7 +21,7 @@
 
 ## 🛠️ About Me  
 
-Software Engineer with a love for clean architecture, testing, and open source. Exploring modern frameworks and best practices.
+Just Do It! And I will, No Matter what it takes...
 
   
 
