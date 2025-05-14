@@ -41,7 +41,6 @@ Hi there! I'm Lucky, a passionate Full-Stack Developer specialising in web appli
 🔹 **Expertise**:  
 - 🚀 **web and mobile applications**    
 - 🏗️ **Database design (Postgresql, Mysql, Mongodb)**  
-- 🏛️ **System architecture & design**  
 
 ---
 
