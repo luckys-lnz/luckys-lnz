@@ -21,7 +21,7 @@
 
 ## 🛠️ About Me  
 
-Just Do It! And I will, No Matter what it takes...
+Hi there! I'm Lucky, a passionate Full-Stack Developer specialising in web applications. I enjoy building responsive websites and exploring new technologies.
 
   
 
