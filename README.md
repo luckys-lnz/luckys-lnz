@@ -21,7 +21,7 @@
 
 ## 🛠️ About Me  
 
-Hi there! I'm Lucky, a passionate Full-Stack Developer specialising in web applications. I enjoy building responsive websites and exploring new technologies.
+Hi there! I'm a passionate Full-Stack Developer specialising in web applications. I enjoy building responsive websites and exploring new technologies.
 
   
 
