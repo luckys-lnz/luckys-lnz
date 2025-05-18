@@ -21,9 +21,7 @@
 
 ## 🛠️ About Me  
 
-Hi there! I'm a passionate Full-Stack Developer specialising in web applications. I enjoy building responsive websites and exploring new technologies.
-
-  
+I build apps for the web.
 
 🔹 **Languages**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
