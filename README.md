@@ -58,8 +58,8 @@ I build Software Products for Everyday Users and Businesses.
 | 🔥 Project | 🚀 Description | 💻 Tech Stack |
 |------------|----------------|---------------|
 | **[web-scraper](https://github.com/luckys-lnz/web-scraper)** | A multithreaded C-based crawler with Redis integration, smart URL deduplication, and PostgreSQL storage. Built for speed and extensibility. | C, pthreads, libxml2, cURL, Redis, PostgreSQL |
-| **[Exchange-App](https://github.com/luckys-lnz/exchange-app)** | Real-time currency converter between **Naira (NGN)** and **Cedi (GHS)** using live exchange rates. | React, Node.js, Express, PostgreSQL |
-| **[AirBnB Clone v4](https://github.com/luckys-lnz/AirBnB_clone_v4)** | A minimal Airbnb-style MVP with booking and listing management. | Python, Flask, SQLAlchemy, PostgreSQL |
+| **[TaskMaster](https://github.com/luckys-lnz/task-master)** | A productivity tool that keeps you locked in. **Simple** and **Fast UI** with **Task Collab** Invite colleague to join your task and get it done quickly. | Nextjs, Node.js, Drizzle, PostgreSQL |
+| **[polymarket_bot](https://github.com/luckys-lnz/polymarket_bot)** | Uses Black-Scholes fair-value signals on crypto binary markets with Telegram approval, paper trading, and a live terminal dashboard. | Python, HTMX |
 
 </div>
 
